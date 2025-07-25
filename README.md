@@ -117,16 +117,3 @@ Com 3+ anos de experiência em desenvolvimento e sólido conhecimento em C# (.NE
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
-
-<br/><br/>
-
-### Estatísticas
-
-<p>
-  <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="300" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinnigs&theme=midnight-purple&layout=compact&custom_title=Tecnologias&hide_border=true&langs_count=9" 
-  />
-</p>
